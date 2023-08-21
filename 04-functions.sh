@@ -1,7 +1,7 @@
 greeting() {
   echo Hello,Goodmorning
   echo welcome
-  Return 10
+  return 10
   echo Good to have you hear.
 }
 
