@@ -9,3 +9,9 @@ while [ $a -gt 0 ]; do
   a=$(($a-1))
   #break # this command can break the loop
   done
+
+  #Based on Inputs
+  for comp in frontend catalogue user ; do
+    echo Installing Component $comp
+    done
+
